@@ -1,4 +1,6 @@
 CRUD Python MySQL Flask Windows Ubuntu
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) - 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white) - 
@@ -33,8 +35,4 @@ Luego que el proyecto ya se este ejecutando, podemos verlo funcionar en la sigui
 http://localhost:3000
 http://127.0.0.1:3000
 ```
-{% cli %}
 
-These instructions are pertinent to GitHub CLI users.
-
-{% endcli %}
